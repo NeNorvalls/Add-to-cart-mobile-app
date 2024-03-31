@@ -1,8 +1,4 @@
-# mobile_app
-
-Building mobile app (Add-to-Cart) with Firebase
-
-# Reel Time Web App
+# Reel Time Web App with FIREBASE
 
 This repository contains the source code for the Reel Time web application, which allows users to create and manage a shopping list. The application is built using HTML, CSS, and Firebase Realtime Database for data storage.
 
